@@ -17,8 +17,8 @@ const HeroSection = () => {
                 className="grid grid-cols-1 sm:grid-cols-12 py-20 "
             >
                 <div className="col-span-7 place-self-center text-center sm:text-left">
-                    <h1 className='text-white mb-4 text-4xl  sm:text-5xl lg:text-8xl lg:leading-normal font-extrabold transition-colors duration-700 hover:text-purple-500 drop-shadow-[0_1.2px_1.2px_rgba(0,0,0,0.8)]
-'>Hello, I&apos;m
+                    <h1 className='text-white mb-4 mt-4 text-4xl sm:text-5xl lg:text-8xl lg:leading-normal font-extrabold transition-colors duration-700 hover:text-purple-500 drop-shadow-[0_1.2px_1.2px_rgba(0,0,0,0.8)]
+                        '>Hello, I&apos;m
                         <br></br>
                         <TypeAnimation
                             sequence={[
@@ -47,8 +47,8 @@ const HeroSection = () => {
                         
                     </div>
                     <div>
-                        <Link href="#contact" className="text-black bg-white px-6 py-3 w-full sm:w-fit  rounded-full hover:bg-slate-200 mr-4">Hire me</Link>
-                        <Link href= "https://drive.google.com/file/d/1lxM1oSQQksos66JfE6fzsh_7m-LrmS94/view?usp=sharing" className="text-white bg-black border w-full sm:w-fit px-6 py-3 rounded-full hover:bg-slate-900 mt-4 mr-4">Download CV</Link>
+                        <Link href="#contact" className="px-6 inline-block py-3 w-full sm:w-fit rounded-full mr-4 bg-white hover:bg-slate-200 text-black">Hire me</Link>
+                        <Link href= "https://drive.google.com/file/d/1lxM1oSQQksos66JfE6fzsh_7m-LrmS94/view?usp=sharing" className="inline-block py-3 px-6 bg-black  w-full sm:w-fit rounded-full hover:bg-slate-800 text-white mt-3">Download CV</Link>
                     </div>
                 </div>
                 <div className="col-span-5 place-self-center mt-4 lg:mt-0">

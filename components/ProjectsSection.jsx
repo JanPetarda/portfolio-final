@@ -26,7 +26,7 @@ const projectsData = [
         id: 3,
         title: "Password Generator",
         description: "Easy 15 digit password generator",
-        image: "/images/pass.jpg",
+        image: "/images/password.jpg",
         tag: ["All", "Web"],
         link: "https://classy-marshmallow-62ac5e.netlify.app/",
         git: "https://github.com/JanPetarda/Password-Generator"
