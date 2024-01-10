@@ -48,7 +48,7 @@ const EmailSection = () => {
     return (
         <section id="contact" className="grid md:grid-cols-2 my-12 py-24 gap-4">
            <div>
-                <h5 className="text-3xl font-bold text-white my-2">Let&apos;s <span className="text-purple-500">Connect</span></h5>
+                <h5 className="text-3xl font-bold text-white my-2  transition-colors duration-700 hover:text-purple-500 hover:cursor-default">Let&apos;s <span className="text-purple-500  transition-colors duration-700 hover:text-white">Connect</span></h5>
                 <p className="text-[#ADB7BE] mb-10 max-w-md text-xl">
                         {" "}
                     Feel free to ask me questions about my work, or just message me to say hi! 

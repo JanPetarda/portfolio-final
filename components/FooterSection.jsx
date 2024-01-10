@@ -8,7 +8,7 @@ const Footer = () => {
     <footer className="footer border border-t-[#33353F] border-l-transparent border-transparent text-white mb-0 flex items-center justify-between">
       <div className="container flex items-center m-5">
         <span>
-          LOGO
+          MS
         <p className="text-slate-600">All rights reserved.</p>
         </span>
       </div>

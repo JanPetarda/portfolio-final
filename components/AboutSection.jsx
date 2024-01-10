@@ -152,7 +152,7 @@ const AboutSection = () => {
       className="md:grid md:grid-cols-2 gap-8 items-center py-8 px-4 xl:gap-16 sm:py-16 xl:px-16">
         <Image src="/images/about.png" width={500} height={700}  className=" rounded hover:scale-105 ease-in-out duration-300" />
         <div className="mt-4 md:mt-0 text-left flex flex-col h-full">
-          <h2 className="text-4xl font-bold text-white mb-4">About Me</h2>
+          <h2 className="text-4xl font-bold text-white mb-4">About <span className="text-purple-500">Me</span></h2>
           <p className="text-base lg:text-lg">
             I am a <span className="text-purple-500">Front End</span> web developer with a passion for creating
             interactive and responsive web applications with AI technology. I have experience
