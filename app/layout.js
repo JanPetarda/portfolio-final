@@ -6,13 +6,9 @@ import './globals.css'
 const inter = Inter({ subsets: ['latin'] })
 
 export const metadata = {
-  title: 'Maciej Sitarski |',
-  description: 'Maciej Sitarski Portfolio Website',
-  icons:{
-    icon:['/favicon.ico'],
-    apple:['/apple-touch-icon.png'],
-    shortcut:['/apple-touch-icon.png']
-  }
+
+  title: 'Maciej Sitarski | Portfolio',
+  description: 'Maciej Sitarski Portolio Website',
 }
 
 export default function RootLayout({ children }) {
