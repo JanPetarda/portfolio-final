@@ -53,7 +53,7 @@ const EmailSection = () => {
                         {" "}
                     Feel free to ask me questions about my work, or just message me to say hi! 
                     I&apos;m always open to new opportunities, ideas, and meaningful conversations. 
-                    Feel free to reach out through the contact form below, and let&apos;s create something amazing together or simply share our thoughts.
+                    Reach out through the contact form below, and let&apos;s create something amazing together or simply share our thoughts.
 
                 </p>
                 
