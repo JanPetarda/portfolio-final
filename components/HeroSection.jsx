@@ -48,7 +48,7 @@ const HeroSection = () => {
                     </div>
                     <div>
                         <Link href="#contact" className="px-6 inline-block py-3 w-full sm:w-fit rounded-full mr-4 bg-white hover:bg-slate-200 text-black hover:bg-opacity-80">Hire me</Link>
-                        <Link href= "https://drive.google.com/file/d/1lxM1oSQQksos66JfE6fzsh_7m-LrmS94/view?usp=sharing" className="inline-block py-3 px-6 hover:bg-opacity-80 bg-black  w-full sm:w-fit rounded-full hover:bg-slate-800 text-white mt-3">Download CV</Link>
+                        <Link href= "https://drive.google.com/file/d/1OPWwIfKKkxNN6TyNMuuWGIivCRr397wi/view?usp=sharing" className="inline-block py-3 px-6 hover:bg-opacity-80 bg-black  w-full sm:w-fit rounded-full hover:bg-slate-800 text-white mt-3">Download CV</Link>
                     </div>
                 </div>
                 <div className="col-span-5 place-self-center mt-4 lg:mt-0">
